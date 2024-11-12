@@ -1,5 +1,3 @@
-# pravinskadwe-ME_QKART_QA-Selenium-TestNG-Screenshot
-
 ## Overview
 The application under test is QKart, an e-commerce platform.
 
